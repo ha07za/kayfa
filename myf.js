@@ -121,9 +121,3 @@
         return this;
     };
 })(window.jQuery);
-
-
-
-  $(&#39;#popup-box&#39;).howarabicpopup({
-  &#39;autoOpen&#39;: true
-});
